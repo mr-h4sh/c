@@ -3,12 +3,12 @@
 int main() 
 {
     // definerer variabler
-    char * navn = "ola";
-    char * adresse = "Prost Bloms Gate 32";
-    int postnummer = 2817;
-    char * poststed = "Gjøvik";
-    int telefonnummer = 41144491;
-    int alder = 26;
+    char * navn = "xxx";
+    char * adresse = "xxx xxx 33";
+    int postnummer = 2222;
+    char * poststed = "xxxx";
+    int telefonnummer = 12345678;
+    int alder = 11;
 
     // print og formattering
     printf("Navn: %s\n", navn);
