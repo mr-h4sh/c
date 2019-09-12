@@ -1,5 +1,5 @@
 /**     OBLIG 1 
- *      @ Ola Fagerhaug
+ *      @ xxxxxxxxxxx
  *      @ 11.09.2019
  **/
 
